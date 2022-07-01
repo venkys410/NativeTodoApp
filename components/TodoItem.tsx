@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, TouchableOpacity, TextInput } from 'react-native'
 import React, { useEffect, useRef, useState } from 'react'
-import Todo from '../../types'
+import Todo from '../types'
 
 type TodoProps={
     todo : Todo

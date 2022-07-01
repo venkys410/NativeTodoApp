@@ -10,7 +10,7 @@ import {
   TouchableOpacity,  
   View,
 } from 'react-native';
-import Todo from '../types'
+import Todo from './types'
 import TodoItem from './components/TodoItem';
 
 
